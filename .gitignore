@@ -1,0 +1,23 @@
+# Editor
+.vscode/
+
+# Logs
+npm-debug.log
+
+# Sistema operativo
+Thumbs.db
+
+# Salidas de produccion
+dist/
+build/
+
+# Vite / React
+frontend/
+frontend/dist/
+frontend/node_modules/
+frontend/.env
+
+# Express / Backend
+backend/node_modules/
+backend/.env
+
